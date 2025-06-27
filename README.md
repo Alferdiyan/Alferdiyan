@@ -56,15 +56,10 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 [Portfolio](https://ekadesign.my.id)  
-- 📩 ekaxxxx@gmail.com  
+- 🌐 [Portfolio](https://ferdiyanstudio.my.id)  
+- 📩 ferdiyan.eka!@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/ekafrd)
 
 ---
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ekafrd&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekafrd&layout=compact&theme=tokyonight" />
-</details>
+
